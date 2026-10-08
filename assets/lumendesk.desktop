@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=LumenDesk
+Comment=Cross-platform DMX lighting controller
+Exec=lumendesk
+Icon=lumendesk
+Categories=AudioVideo;Utility;
+Terminal=false
