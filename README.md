@@ -57,7 +57,8 @@ containing the executable and its runtime files.
 
 Build on Ubuntu/Linux; an AppImage is a Linux binary and cannot be compiled
 natively on Windows. Install CMake, a C++17 toolchain, Python 3 with `venv`
-support, `libasound2-dev`, the XCB runtime libraries, and `curl`, then run.
+support, `libasound2-dev`, `libegl1`, `libgl1`, the XCB runtime libraries, and
+`curl`, then run.
 The script downloads the official linuxdeploy AppImage into the ignored
 `build/tools` folder:
 
